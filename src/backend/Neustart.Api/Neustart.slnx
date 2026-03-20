@@ -1,5 +1,5 @@
 <Solution>
   <Folder Name="/backend/">
-    <Project Path="backend/Neustart.Api/Neustart.Api.csproj" />
+    <Project Path="Neustart.Api.csproj" />
   </Folder>
 </Solution>
