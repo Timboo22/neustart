@@ -2,4 +2,5 @@
   <Folder Name="/backend/">
     <Project Path="Neustart.Api.csproj" />
   </Folder>
+  <Project Path="../Neustart.Tests/Neustart.Tests.csproj" />
 </Solution>
