@@ -14,7 +14,7 @@ Warum der Name? Weil jedes großartige Projekt mit einem mutigen **neustart** be
 
 ## 🛠 Tech Stack
 Dieses Projekt nutzt moderne Tools für maximale Geschwindigkeit:
-* **Frontend:** [React / Next.js / Vue] – *hier dein Framework eintragen*
+* **Frontend:** Angular 21
 * **Styling:** Tailwind CSS / Styled Components
 * **Package Manager:** npm / pnpm
 * **State Management:** ...
