@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Neustart.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af65bc6ef54b0985c8ad0fbe70d366ab6c09c919")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7112dba4146747777ab5e6336eeeaacb7fd82e81")]
 [assembly: System.Reflection.AssemblyProductAttribute("Neustart.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Neustart.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

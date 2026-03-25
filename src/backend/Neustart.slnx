@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Neustart.Api/Neustart.Api.csproj" />
+  <Project Path="Neustart.Tests/Neustart.Tests.csproj" />
+</Solution>
